@@ -1,0 +1,58 @@
+{
+  "users": {
+    "nikhil": {
+      "city": "navi mumbai",
+      "first_name": "nikhil",
+      "last_name": "patil",
+      "zip": "424023",
+      "phone": "8379051275",
+      "state": "maharashtra",
+      "address": "rajendra nagar mahindale shivar dhule"
+    },
+    "kunal": {
+      "city": "navi mumbai",
+      "first_name": "kunal",
+      "last_name": "patil",
+      "zip": "400008",
+      "phone": "879453456",
+      "state": "maharashtra",
+      "address": "koparkhairne"
+    },
+    "swati": {
+      "city": "ssdffs",
+      "first_name": "swati",
+      "last_name": "desale",
+      "zip": "34525",
+      "phone": "43543",
+      "state": "sdafsda",
+      "address": "devbhane"
+    },
+    "ajay": {
+      "city": "dhule",
+      "first_name": "ajay",
+      "last_name": "patil",
+      "zip": "43545",
+      "phone": "4353245",
+      "state": "sdfsdf",
+      "address": "adf"
+    },
+    "sandip": {
+      "city": "mumbai",
+      "first_name": "sandip",
+      "last_name": "bagal",
+      "zip": "400008",
+      "phone": "8888894304",
+      "state": "maharashtra",
+      "address": "mumbai"
+    },
+    "ashwini": {
+      "city": "pune",
+      "first_name": "ashwini",
+      "last_name": "desale",
+      "zip": "424001",
+      "phone": 7689564356,
+      "state": "maharashtra",
+      "address": "wakad"
+    }
+  }
+}

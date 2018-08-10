@@ -1,0 +1,20 @@
+{
+  "tipco": {
+    "share_Price": "345",
+    "total_share": "5",
+    "company_symbol": "45",
+    "company_name": "tipco"
+  },
+  "TCS": {
+    "share_Price": "2345",
+    "total_share": "3",
+    "company_symbol": "T",
+    "company_name": "TCS"
+  },
+  "ttt": {
+    "share_Price": "4543",
+    "total_share": "34534",
+    "company_symbol": "sfds",
+    "company_name": "ttt"
+  }
+}

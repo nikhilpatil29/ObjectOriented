@@ -1,0 +1,14 @@
+{
+  "customers": {
+    "swapnil": {
+      "amount_per_share": "2345",
+      "noOfShare": "5",
+      "cname": "swapnil"
+    },
+    "nikhil": {
+      "amount_per_share": "2550",
+      "noOfShare": "5",
+      "cname": "nikhil"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "patient": {
+    "muthayya": {
+      "patientNumber": "34567755",
+      "first_name": "muthayya",
+      "last_name": "murlidharan",
+      "age": "22",
+      "id": "1"
+    },
+    "ramcharan": {
+      "patientNumber": "77553333",
+      "first_name": "ramcharan",
+      "last_name": "prabhuda",
+      "age": "23",
+      "id": "2"
+    },
+    "kalicharan": {
+      "patientNumber": "987767675",
+      "first_name": "kalicharan",
+      "last_name": "nathuraj",
+      "age": "23",
+      "id": "3"
+    }
+  }
+}

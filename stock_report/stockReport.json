@@ -1,0 +1,16 @@
+{
+	"stock": [{
+		"name": "hdfc",
+		"no_of_share": "7",
+		"share_prize": "1200"
+	}, {
+		"name": "state_bank",
+		"no_of_share": "12",
+		"share_prize": "2300"
+	}, {
+		"name": "punjab_national_bank",
+		"no_of_share": "39",
+		"share_prize": "600"
+	}]
+
+}
