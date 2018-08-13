@@ -1,0 +1,70 @@
+{
+  "inventary": {
+    "pulses": [
+      {
+        "Kg": 2,
+        "Name": "abc",
+        "Price": 324,
+        "amount": 648
+      },
+      {
+        "Kg": 3,
+        "Name": "abc",
+        "Price": 23,
+        "amount": 69
+      }
+    ],
+    "rice": [
+      {
+        "Kg": 3,
+        "Name": "chaval",
+        "Price": 44,
+        "amount": 132
+      },
+      {
+        "Kg": 2,
+        "Name": "nikhil",
+        "Price": 232,
+        "amount": 464
+      },
+      {
+        "Kg": 3,
+        "Name": "basmati",
+        "Price": 33,
+        "amount": 99
+      },
+      {
+        "Kg": 12,
+        "Name": "tukda",
+        "Price": 31,
+        "amount": 372
+      },
+      {
+        "Kg": 33,
+        "Name": "ams",
+        "Price": 333,
+        "amount": 10989
+      },
+      {
+        "Kg": 2,
+        "Name": "chama",
+        "Price": 222,
+        "amount": 444
+      }
+    ],
+    "wheat": [
+      {
+        "amount": "54",
+        "kg": "2",
+        "name": "abc",
+        "price": "27"
+      },
+      {
+        "Kg": 3,
+        "Name": "weeeat",
+        "Price": 233,
+        "amount": 699
+      }
+    ]
+  }
+}

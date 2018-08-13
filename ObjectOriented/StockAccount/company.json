@@ -1,0 +1,26 @@
+{
+  "tipco": {
+    "share_Price": "345",
+    "total_share": "10",
+    "company_symbol": "45",
+    "company_name": "tipco"
+  },
+  "TCS": {
+    "share_Price": "2345",
+    "total_share": "3",
+    "company_symbol": "T",
+    "company_name": "TCS"
+  },
+  "Maruti": {
+    "share_Price": "2222",
+    "total_share": "31",
+    "company_symbol": "M",
+    "company_name": "Maruti"
+  },
+  "ttt": {
+    "share_Price": "4543",
+    "total_share": "34534",
+    "company_symbol": "sfds",
+    "company_name": "ttt"
+  }
+}

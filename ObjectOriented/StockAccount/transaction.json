@@ -1,0 +1,42 @@
+[
+  {
+    "total_Price": "2000",
+    "buy_sell": "Sell",
+    "total_share": "2",
+    "company_symbol": "45",
+    "time": "2018-08-10 12:38",
+    "customer_name": "swapnil"
+  },
+  {
+    "total_Price": "345",
+    "buy_sell": "Buy",
+    "total_share": "1",
+    "company_symbol": "45",
+    "time": "2018-08-10 12:59",
+    "customer_name": "swapnil"
+  },
+  {
+    "total_Price": "4444",
+    "buy_sell": "Buy",
+    "total_share": "2",
+    "company_symbol": "M",
+    "time": "2018-08-10 19:06",
+    "customer_name": "nikhil"
+  },
+  {
+    "total_Price": "7000",
+    "buy_sell": "Sell",
+    "total_share": "1",
+    "company_symbol": "45",
+    "time": "2018-08-11 10:23",
+    "customer_name": "swapnil"
+  },
+  {
+    "total_Price": "7000",
+    "buy_sell": "Sell",
+    "total_share": 0,
+    "company_symbol": "45",
+    "time": "2018-08-11 12:20",
+    "customer_name": "swapnil"
+  }
+]

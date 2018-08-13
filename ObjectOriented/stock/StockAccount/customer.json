@@ -1,0 +1,19 @@
+{
+  "customers": [
+    {
+      "amount_per_share": "1234",
+      "noOfShare": "6",
+      "cname": "nikhil"
+    },
+    {
+      "amount_per_share": "2050",
+      "noOfShare": "6",
+      "cname": "swapnil"
+    },
+    {
+      "amount_per_share": "2000",
+      "noOfShare": "3",
+      "cname": "swapnil"
+    }
+  ]
+}
